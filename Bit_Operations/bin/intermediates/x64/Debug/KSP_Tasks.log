@@ -1,0 +1,6 @@
+﻿  KSP_task7.cpp
+  main.cpp
+D:\X Moje sprawy X\Ja\Praca\2023\KSP\KSP_Tasks\KSP_Tasks\Src\main.cpp(85,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\X Moje sprawy X\Ja\Praca\2023\KSP\KSP_Tasks\KSP_Tasks\Src\main.cpp(93,31): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
+  KSP_Tasks.vcxproj -> D:\X Moje sprawy X\Ja\Praca\2023\KSP\KSP_Tasks\bin\x64\Debug\KSP_Tasks.exe
